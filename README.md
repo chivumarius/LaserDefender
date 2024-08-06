@@ -20,7 +20,7 @@ Players must maneuver their ship to shoot enemies and avoid incoming fire.
 ### Game Loop
 The game consists of a single level with endless waves of enemies. Players must destroy enemies to score points until their health reaches zero, ending the game.
 
-![Game Design](path/to/image1.jpg)
+
 
 ## Feature Analysis
 
@@ -51,7 +51,7 @@ The game consists of a single level with endless waves of enemies. Players must 
 - **Fonts**
 - **UI Sprites**
 
-![Art Assets](path/to/image3.jpg)
+
 
 ## How to Play
 - **Control**: Use arrow keys or WASD to move the ship.
