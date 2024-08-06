@@ -41,7 +41,7 @@ The game consists of a single level with endless waves of enemies. Players must 
 - **Menus and Screens**: User interface for navigation and game options.
 - **Content and Tuning**: Additional content and adjustments for game balance.
 
-![Feature Analysis](path/to/image2.jpg)
+
 
 ## Art Assets
 - **Player Ship**
