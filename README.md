@@ -1,7 +1,25 @@
-# Laser Defender
+
+
+L# Laser Defender
 
 ## Overview
 "Laser Defender" is a space shooter game created in Unity 2D, where players pilot their spaceship to destroy endless waves of enemies and score points.
+
+
+![Start Screen](https://i.imgur.com/H35xcp1.jpeg)
+*The game starts from this window, where the player can choose to start the game or close the game.*
+
+
+![Game Screen](https://i.imgur.com/82ZTKla.jpeg)
+*In the game window, the player controls the ship and shoots enemies that appear on the screen and when a ship receives three shots, the ship is destroyed..*
+
+
+![End Screen](https://i.imgur.com/RKbMRF3.jpeg)
+*The end of the game window appears when the player has lost his life and in this window you can see the player's score, with the option to restart the game or return to the main menu from the start window.*
+
+
+
+
 
 ## Game Design
 
@@ -42,7 +60,6 @@ The game consists of a single level with endless waves of enemies. Players must 
 - **Content and Tuning**: Additional content and adjustments for game balance.
 
 
-
 ## Art Assets
 - **Player Ship**
 - **Multiple Enemy Ships**
@@ -50,7 +67,6 @@ The game consists of a single level with endless waves of enemies. Players must 
 - **Background Sprites**
 - **Fonts**
 - **UI Sprites**
-
 
 
 ## How to Play
@@ -65,3 +81,8 @@ The game consists of a single level with endless waves of enemies. Players must 
     ```
 2. Open the project in Unity.
 3. Press the Play button to start the game.
+
+
+
+
+
