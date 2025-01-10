@@ -1,6 +1,6 @@
 
 
-L# Laser Defender
+## Laser Defender
 
 ## Overview
 "Laser Defender" is a space shooter game created in Unity 2D, where players pilot their spaceship to destroy endless waves of enemies and score points.
